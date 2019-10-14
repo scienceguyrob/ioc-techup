@@ -1,10 +1,10 @@
 Name,Age,D.O.B,Account Number,Sort Code,Email,Address,Balance,Password
 Ada Lovelace,203,10/12/1815,100000,101010,ada@ourfakebank.co.uk,1 Computer Science Row,1000.0,sdfkjh48nwer
-Marie Curie,151,07/11/1867,100001,101020,marie@ourfakebank.co.uk,1 Chemistry Avenue,32hsje98fdnk
-Emmy Noether,137,23/03/1882,100002,101030,emmy@ourfakebank.co.uk,1 Mathematics Road,d94mck49jldv
-Grace Hopper,112,09/12/1906,100003,101040,grace@ourfakebank.co.uk,1 Programming Crescent,dfg954nalpam
-Dorothy Hodgkin,109,12/05/1910,100004,101050,dorothy@ourfakebank.co.uk,1 Chemistry Green,vmxnaoeug84n
-Katherine Johnson,101,26/08/1918,100005,101060,katherine@ourfakebank.co.uk,1 Moon Way,sjervnskll98
-Rosalind Franklin,99,25/07/1920,100006,101070,rosalind@ourfakebank.co.uk,1 Chemistry Boulevard,k84gf75hcn2d
-Jocelyn Bell,76,15/07/1943,100007,101080,jocelyn@ourfakebank.co.uk,1 Astronomy Way,vimmbij09j43
-Maggie Aderin-Pocock,51,09/03/1968,100008,101090,maggie@ourfakebank.co.uk,1 Space Science Avenue,w094nfskjh82
+Marie Curie,151,07/11/1867,100001,101020,marie@ourfakebank.co.uk,1 Chemistry Avenue,1000.032hsje98fdnk
+Emmy Noether,137,23/03/1882,100002,101030,emmy@ourfakebank.co.uk,1 Mathematics Road,1000.0d94mck49jldv
+Grace Hopper,112,09/12/1906,100003,101040,grace@ourfakebank.co.uk,1 Programming Crescent,1000.0,dfg954nalpam
+Dorothy Hodgkin,109,12/05/1910,100004,101050,dorothy@ourfakebank.co.uk,1 Chemistry Green,1000.0,vmxnaoeug84n
+Katherine Johnson,101,26/08/1918,100005,101060,katherine@ourfakebank.co.uk,1 Moon Way,1000.0,sjervnskll98
+Rosalind Franklin,99,25/07/1920,100006,101070,rosalind@ourfakebank.co.uk,1 Chemistry Boulevard,1000.0,k84gf75hcn2d
+Jocelyn Bell,76,15/07/1943,100007,101080,jocelyn@ourfakebank.co.uk,1 Astronomy Way,1000.0,vimmbij09j43
+Maggie Aderin-Pocock,51,09/03/1968,100008,101090,maggie@ourfakebank.co.uk,1 Space Science Avenue,1000.0,w094nfskjh82
