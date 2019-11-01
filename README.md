@@ -7,7 +7,7 @@ Contact: robert.lyon@edgehill.ac.uk (www.scienceguyrob.com)
 
 Institution: Edge Hill University
 
-Version: 1.0
+Version: 1.1
     
 ## Code & License
 The code and the contents of this notebook are released under the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
@@ -27,4 +27,9 @@ These resources assume that students have already followed this code academy tut
 [Code Academy Tutorial](https://www.codecademy.com/learn/learn-python-3)
 
 <br/>
+
+## Changes Since Version 1.0
+
+I've added slides for Topic 5.3. These slides where created by Dr. Yannis Korkontzelos, so if using those resources, 
+please credit the resources appropriately.
 
