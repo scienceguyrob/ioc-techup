@@ -20,7 +20,7 @@ These resources were written to support the IOC Techup-Women programme. There ar
 * an introduction to neural networks.
 * Advanced Python
 
-These resources assuming that students have already followed this code academy tutorial.
+These resources assume that students have already followed this code academy tutorial.
 
 <br/>
 
