@@ -18,7 +18,10 @@ These resources were written to support the IOC Techup-Women programme. There ar
 
 * an introduction to machine learning.
 * an introduction to neural networks.
-* Advanced Python
+* Advanced Python.
+* applied data science.
+* advanced data science.
+
 
 These resources assume that students have already followed this code academy tutorial.
 
